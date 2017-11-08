@@ -1,0 +1,21 @@
+Michael Lynch, 2017
+Jeff Dahn Research Group, 2017
+
+This directory contains the EIS switching application I developed
+for Prof Jeff Dahn in Summer 2017, as well as supporting information.
+
+REQUIREMENTS:
+	The program will throw an exception if the Visual Basic
+	National Instruments library is not installed, though the
+	front panel of the program will still load  upon clicking
+	'continue'.
+	
+	The hardware needed for this program to work is listed in the
+	attached manual. The switching units were made in the lab and
+	are controlled by the Keithley multimeters.
+
+ACKNOWLEDGEMENTS:
+	Dr Jeff Dahn for giving me the opportunity to work in his lab
+	Dr Robbie Sanderson for providing guidance through the project
+	Dr Jim Li for helping to locate a critical flaw
+	All other members of the Dahn group for being great coworkers
